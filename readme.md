@@ -1,9 +1,10 @@
-Field delineation using PlanetScope data
+Field boundary delineation benchmarking: algorithms fit for global challenges
 ------------
 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+This repository contains the code required to produce the manuscript "Field boundary delineation benchmarking: algorithms fit for global challenges"
 
 
   

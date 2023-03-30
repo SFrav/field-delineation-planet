@@ -132,4 +132,4 @@ if __name__ == "__main__":
     #args = parser.parse_args()
     #main(args.geojson_file, args.output_file, args.length, args.overlap)
 
-    main('Planet/Navarra_spain.geojson', 32630, 'Planet/download-grid', 31000, 500, 'ESP_NAV', 'fig.jpg') #31000 = 9129px #ROI in ISO_3166-1_alpha-3 format or 3 letter addition for sub national
+    main('Planet/Navarra_spain.geojson', 32630, 'Planet/download-grid', 7750, 500, 'ESP_NAV', 'fig.jpg') #7750 = 2250px; 31000 = 9129px #ROI in ISO_3166-1_alpha-3 format or 3 letter addition for sub national
